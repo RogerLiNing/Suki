@@ -1,0 +1,6 @@
+venv
+*.pyc
+*.bak
+Suki/celerybeat-schedule.dat
+Suki/celerybeat-schedule.dir
+Suki/db.sqlite3
